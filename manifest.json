@@ -1,0 +1,26 @@
+
+{
+  "name": "Mimo · Mi peso",
+  "short_name": "Mimo",
+  "description": "Registra tu peso, consulta tu evolución y sigue tu meta.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fdf7f7",
+  "theme_color": "#fdf7f7",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
